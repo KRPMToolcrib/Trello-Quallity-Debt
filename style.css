@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Quality-Debt img{
+  max-width: 100%;
+  height: auto;
+  /***height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /***height: 270px;
+  background-image: url(img/QualityNum.jpg);
+  background-size: contain;
+  background-repeat: no-repeat; ***/
+}
